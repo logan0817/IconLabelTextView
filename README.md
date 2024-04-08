@@ -146,7 +146,7 @@ class IconLabelTextView : AppCompatTextView {
 ## xml中使用
 ```javascript
   <com.xyz.IconLabelTextView
-		 android:id="@+id/productVariation"
+	android:id="@+id/productVariation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ellipsize="end"
