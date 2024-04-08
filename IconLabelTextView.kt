@@ -1,4 +1,4 @@
-package com.foreo.foreoapp.blog.fragment
+package com.xyz.app
 
 import android.content.Context
 import android.graphics.Canvas
