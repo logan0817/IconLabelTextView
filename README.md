@@ -3,7 +3,7 @@
 
 ## 样式示意图
 
-![样式示意图]([https://img-blog.csdnimg.cn/direct/efd4ea89a55c4ead9368f5a0a07c166b.jpeg](https://github.com/logan0817/IconLabelTextView/assets/19951960/fc7bf7f7-732d-4fe5-96db-d16b2622d996))
+![样式示意图] [https://img-blog.csdnimg.cn/direct/efd4ea89a55c4ead9368f5a0a07c166b.jpeg](https://github.com/logan0817/IconLabelTextView/assets/19951960/fc7bf7f7-732d-4fe5-96db-d16b2622d996)
 
 ## 自定义属性 style.xml
 ```javascript
